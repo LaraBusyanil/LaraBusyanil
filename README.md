@@ -7,8 +7,8 @@ Saya seorang **Mahasiswa Jurusan Sistem Informasi Angkatan 2020** di [Universita
 
 <p align="left">
 <a href="https://github.com/LaraBusyanil">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ttrrayl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ttrrayl&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LaraBusyanil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaraBusyanil&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
