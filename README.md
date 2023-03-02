@@ -1,7 +1,6 @@
 Hi...
 
-Perkenalkan nama saya **Lara Busyanil**.
-
+Perkenalkan nama saya **Lara Busyanil** 👋
 Saya seorang **Mahasiswa Jurusan Sistem Informasi Angkatan 2020** di [Universitas Andalas](https://www.unand.ac.id/).
 
 
