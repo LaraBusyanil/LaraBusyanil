@@ -1,4 +1,4 @@
-# ### Hi Guys...
+Hi...
 
 Perkenalkan nama saya **Lara Busyanil**.
 
@@ -13,7 +13,7 @@ Saya seorang **Mahasiswa Jurusan Sistem Informasi Angkatan 2020** di [Universita
 </p>
 
 <!--
-**ttrrayl/ttrrayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LaraBusyanil/LaraBusyanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
